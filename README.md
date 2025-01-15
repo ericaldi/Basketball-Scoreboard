@@ -8,7 +8,8 @@ A simple, interactive basketball scoreboard web application built using HTML, CS
 - Clean and responsive user interface for desktop and mobile devices.
 
 ## Preview
-![Basketball Scoreboard](image.png)
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/ce004fcf-cdff-45ac-87dd-fe76fb0a51f1" />
+
 
 ## Technologies Used
 - **HTML**: For structuring the scoreboard layout.
